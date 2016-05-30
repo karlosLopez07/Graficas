@@ -1,0 +1,30 @@
+body{
+  font-family:Arial;
+  font-size: 14px;
+  background:url('../img/descarga.jpg');
+
+  
+  
+}
+h1{
+	color:#fff;
+}
+.contenedor{
+	margin:100px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+	margin-bottom: 0px;
+}
+.colo{
+	margin:auto;
+	top: 100px;
+	text-align:center;
+	width: 90%;
+	height: 400px; 
+	
+	}
+footer{
+	color:#fff;
+	text-align:center;
+}

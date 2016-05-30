@@ -1,0 +1,11 @@
+body{
+  font-family:Arial;
+  font-size: 14px;
+  background-image: url('../img/fondo.jpg');
+  background-size:100%;
+}
+
+#chart{margin-top:1em;
+	top: 100px;
+	text-align:center;
+}
