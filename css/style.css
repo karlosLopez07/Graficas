@@ -1,11 +1,19 @@
 body{
   font-family:Arial;
   font-size: 14px;
-  background-image: url('../img/fondo.jpg');
+  background-image: url('../img/descarga.jpg');
   background-size:100%;
 }
-
+h4 {
+ 
+ text-align: center;
+ color: black;
+ 
+}
+#frame{
+	text-align:center;
+}
 #chart{margin-top:1em;
-	top: 100px;
+	
 	text-align:center;
 }

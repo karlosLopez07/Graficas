@@ -1,4 +1,4 @@
-var chart = c3.generate({
+var circulo1 = c3.generate({
     data: {
         // iris data from R
         columns: [

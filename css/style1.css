@@ -6,25 +6,12 @@ body{
   
   
 }
-h1{
+h1, h2{
 	color:#fff;
 }
-.contenedor{
-	margin:100px;
-	margin-left: auto;
-    margin-right: auto;
-    width: 960px;
-	margin-bottom: 0px;
-}
-.colo{
-	margin:auto;
-	top: 100px;
-	text-align:center;
-	width: 90%;
-	height: 400px; 
-	
-	}
+
 footer{
 	color:#fff;
 	text-align:center;
+	
 }
